@@ -1,0 +1,8 @@
+{
+  "name": "Casa in Umbria | Valle del Menotre",
+  "description": "Appartamento vacanze pet-friendly nel borgo di Scopoli, Foligno (Umbria). Il lusso di rallentare tra natura, cammini e borghi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
